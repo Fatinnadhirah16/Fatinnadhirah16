@@ -15,14 +15,14 @@
 
 ## 📌 Positions
 
-###Universiti Teknologi Malaysia
+### Universiti Teknologi Malaysia
 - Member, CyberX
 - Member, Student Recrational Club
 
-###University Technology Mara
--Member, Robotics Club
+### University Technology Mara
+- Member, Robotics Club
 
-###SMKA SYEIKH ABDULLAH FAHIM
+### SMKA SYEIKH ABDULLAH FAHIM
 - President, Archery Club
 - Secretary, Science Technology Engineering Mathematics (STEM)
 - Treasurer, Malaysian Red Crescent Society
