@@ -8,7 +8,7 @@
 **University Technology Mara (UITM)**  
 - Foundation in Engineering  
 
-**SMKA SYEIKH ABDULLAH FAHIM**
+**SMKA Syeikh Abdullah Fahim**
 
 
 ---
@@ -22,7 +22,7 @@
 ### University Technology Mara
 - Member, Robotics Club
 
-### SMKA SYEIKH ABDULLAH FAHIM
+### SMKA Syeikh Abdullah Fahim
 - President, Archery Club
 - Treasurer, Science Technology Engineering Mathematics (STEM) Club
 - Secretary, Malaysian Red Crescent Society Club
