@@ -15,7 +15,7 @@
 
 ## 📌 Positions
 
-### Universiti Teknologi Malaysia
+### Universiti Technology Malaysia
 - Member, CyberX
 - Member, Student Recrational Club
 
