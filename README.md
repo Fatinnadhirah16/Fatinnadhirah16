@@ -24,8 +24,10 @@
 
 ### SMKA SYEIKH ABDULLAH FAHIM
 - President, Archery Club
-- Secretary, Science Technology Engineering Mathematics (STEM)
-- Treasurer, Malaysian Red Crescent Society
+- Secretary, Science Technology Engineering Mathematics (STEM) Club
+- Treasurer, Malaysian Red Crescent Society Club
+
+  
 
 
 
