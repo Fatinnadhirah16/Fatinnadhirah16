@@ -2,7 +2,7 @@
 <h3 align="center">Year 1 | Bachelor of Computer Science (Computer Network & Security)</h3>
 
 ## 🎓 Education
-**Universiti Technology Malaysia (UTM)** 
+**University Technology Malaysia (UTM)** 
 - Bachelor of Computer Science (Computer Network & Security)  
 
 **University Technology Mara (UITM)**  
@@ -16,7 +16,7 @@
 
 ## 📌 Positions
 
-### Universiti Technology Malaysia
+### University Technology Malaysia
 - Member, CyberX
 - Member, Student Recrational Club
 
@@ -31,6 +31,9 @@
 ---
 
 ## 🏆 Achievement & Experience
+
+### University Technology Malaysia
+- Participant, UMPSA X Huawei AppGallery Mobile App Competition 2025
 
 
 
