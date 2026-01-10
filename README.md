@@ -43,9 +43,10 @@
 - UiTM Dengkil Fun Merdeka Run 2024
 
  ### SMKA Syeikh Abdullah Fahim
- - 🥈Penang State Schools Sports Council Championship (MSSPP), (olympic ,Overall Team) 2023
+ - 🥈Penang State Schools Sports Council Championship (MSSPP), (Individual , Team) 2023
  - 🥈State-Level Development Archery Championship (team) 2022
  - 🥉State-Level Development Archery Championship (individual) 2022
+ - 🥉 State- level Penang School Sports Council Championship (Individual, Team) 2022
  - Participant, District-Level Volleyball Competition 2022
  - Partcipant, Fully Residential Schools and Invitantional International Archery Tournament (ReSITARCH) 2019
  - Participant, National-Level Open Cut Archery Challenge 2019
