@@ -30,11 +30,19 @@
 
 ---
 
-## 🏆 Achievement & Experience
+## 🏆 Achievement & participations
 
 ### University Technology Malaysia
 - Participant, UMPSA X Huawei AppGallery Mobile App Competition 2025
+- UTM UNBOCS Splash Run 2025
 
+  
+### University Technology Mara
+- 🥈Islamic Science & Technology Carnival (KSTI) 2025
+- UiTM Dengkil Neon Run 2025
+- UiTM Dengkil Fun Merdeka Run 2024
+
+ ### SMKA Syeikh Abdullah Fahim 
 
 
 
