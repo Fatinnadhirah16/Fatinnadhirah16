@@ -58,6 +58,17 @@
 - SECI1013 Discrete Structure  
 - SECR1013 Digital Logic
 
+  ---
+
+  ## ⚙️Skills
+  - Programming languange: C++
+  - Soft Skills: Time management and leadership
+ 
+  ## 📞Contact
+  - Email: fatinnadh1606@gmail.com
+  - LinkedIn:(https://www.linkedin.com/in/fatin-nadhirah16)
+  - Github: (https://github.com/Fatinnadhirah16)
+
   
 
    
