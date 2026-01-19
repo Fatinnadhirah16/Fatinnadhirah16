@@ -51,6 +51,15 @@
  - Partcipant, Fully Residential Schools and Invitantional International Archery Tournament (ReSITARCH) 2019
  - Participant, National-Level Open Cut Archery Challenge 2019
  
+   ---
+   ## 📘 Course
+- SECP1513 Technology and Information System
+- SECJ1013 Programming Technique 1  
+- SECI1013 Discrete Structure  
+- SECR1013 Digital Logic
+
+  
+
    
 
 
