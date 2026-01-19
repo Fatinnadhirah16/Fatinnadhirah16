@@ -53,7 +53,7 @@
  
    ---
    ## 📘 Course
-- SECP1513 Technology and Information System
+- [SECP1513 Technology and Information System] (https://github.com/Fatinnadhirah16/TIS)
 - SECJ1013 Programming Technique 1  
 - SECI1013 Discrete Structure  
 - SECR1013 Digital Logic
